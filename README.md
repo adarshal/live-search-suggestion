@@ -1,4 +1,4 @@
-# live-search-suggestion, Ajax, nodejs,js,,JSON ,API,css
+# live-search-suggestion, nodejs,js,JSON ,API,css
 get live search suggestion .for searching animals.
 if you want to use it on your local machine use port port8030.do npm install ,so it will install required files.take X-Parse-Application-Id & X-Parse-REST-API-Key from back4app database and add it on controlllers/find.js file
 Animal Database used from https://www.back4app.com/database
